@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grid-design-react/static/css/main.66fb734e.css",
+    "main.js": "/grid-design-react/static/js/main.de802077.js",
+    "static/js/787.f790f970.chunk.js": "/grid-design-react/static/js/787.f790f970.chunk.js",
+    "static/media/logo.svg": "/grid-design-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grid-design-react/index.html",
+    "main.66fb734e.css.map": "/grid-design-react/static/css/main.66fb734e.css.map",
+    "main.de802077.js.map": "/grid-design-react/static/js/main.de802077.js.map",
+    "787.f790f970.chunk.js.map": "/grid-design-react/static/js/787.f790f970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fb734e.css",
+    "static/js/main.de802077.js"
+  ]
+}
